@@ -15,6 +15,7 @@ public class ProyectoFinalPOO2 {
      */
     public static void main(String[] args) {
         System.out.println("Hola, saludos desde el grupo 00 :D");
+        System.out.println("Saludos desde mi lap :) by. Angelo");
     }
     
 }
